@@ -1,0 +1,8 @@
+   安装Appserv 8.0后进行如下操作:
+	1 进phpmyadmin   http://localhost:8080/phpMyAdmin    
+	  建立一个数据库oc
+  	  建立一个用户oc并将oc库的权限赋予oc用户
+	2 拷贝oc文件夹到www文件夹下
+	3 导入数据库备份 地址为:教师评价系统/数据库/sql/localhost.sql
+	4 安装oc  http://localhost:8080/oc
+	5 进入评价页面
